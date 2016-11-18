@@ -3,5 +3,8 @@
  */
 public class Signature
   {
+    public static String Sign (String message)
+      {
 
+      }
   }
